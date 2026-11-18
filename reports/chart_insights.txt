@@ -1,0 +1,4 @@
+Bar: Finance has the highest mean monthly salary (90,000), based on one employee.
+Histogram: Four of eight salaries fall between 60,000 inclusive and 70,000 exclusive.
+Scatter: Priya and Meena share a salary of 64,000 because both values were filled with the median.
+Line: The three highest salaries contribute 233,000 of the 499,000 monthly payroll (46.7%).
