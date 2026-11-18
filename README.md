@@ -1,4 +1,4 @@
-# Week 1 assessment · Task 1
+# Week 1 assessment · Python and data engineering
 
 Run `python3 task1.py` from the repository directory. Python 3.6 or newer is sufficient. The script reads the eight supplied records from `employees.csv` beside the script.
 
